@@ -49,18 +49,6 @@ Most of my engineering time right now is dedicated to **[Rax](https://github.com
 
 ---
 
-### Activity
-
-<div align="center">
-
-<a href="https://github.com/neerajm-dev">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=neerajm-dev&theme=tokyo-night&hide_border=true&area=true&bg_color=0d1117&color=10b981&line=10b981&point=38bdf8" width="95%" alt="Neeraj M GitHub Activity Graph" />
-</a>
-
-</div>
-
----
-
 ### Contact
 
 - Website: [neerajm.vercel.app](https://neerajm.vercel.app)
